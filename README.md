@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/arthur-l%C3%B4bo-419458144" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div align="center">
-  <img src="[https://totallymorgan.com/](https://freight.cargo.site/t/original/i/9900123a0c7c6c9483552f2d11862799812d428a1a93d6f2d278cface7f5bc80/dbg4hlw-0e3b8e83-54fa-4465-9169-3fe49f7e22a9.gif)">
+  <img src="https://freight.cargo.site/t/original/i/9900123a0c7c6c9483552f2d11862799812d428a1a93d6f2d278cface7f5bc80/dbg4hlw-0e3b8e83-54fa-4465-9169-3fe49f7e22a9.gif">
 </div><br>
 
 <div align="center">
