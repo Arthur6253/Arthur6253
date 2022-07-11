@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://br.linkedin.com/in/arthur-l%C3%B4bo-419458144"><i>Arthur Lôbo</i></a> 😃️</h1>
-  <p align="center">Tecnologo em Redes de Computadores buscando migrar para área de desenvolvimento.
+  <p align="center">Formado como Tecnologo em Redes de Computadores estudando para migrar para área de desenvolvimento.
     Atualmente estudando Desenvolvimento Web, HTML5, CSS3 e JavaScript.</p>
   <p align="center">Acompanhe meu desenvolvimento através dos meus projetos.</p>
 </div>
