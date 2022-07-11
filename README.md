@@ -22,6 +22,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/arthur-l%C3%B4bo-419458144" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<div align="center">
+  <img src="https://totallymorgan.com/">
+</div><br>
 
 <div align="center">
   
